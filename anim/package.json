@@ -1,5 +1,5 @@
 {
-  "name": "ajs",
+  "name": "ahj-1",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "preshow:dist": "npm run build",
     "show:dist": "live-server dist"
   },
-  "author": "coursar",
+  "author": "vika",
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.12.10",
@@ -41,5 +41,6 @@
   },
   "dependencies": {
     "core-js": "^3.8.2"
-  }
+  },
+  "repository": "https://github.com/viktorka1347/ahj--1.git"
 }
